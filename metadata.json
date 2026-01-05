@@ -1,0 +1,7 @@
+{
+  "name": "Cẩm nang Sức khỏe - App",
+  "description": "Ứng dụng tạo truyện tranh thông minh với hình ảnh minh họa AI, giọng đọc truyền cảm và khả năng phát trực tiếp sống động.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
